@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a de-identification dataset designed for anonymizing personal information in medical text. The dataset consists of structured data where sensitive information is labeled and categorized for easy identification and removal.
+This repository contains a masking dataset designed for anonymizing personal information in medical text. The dataset consists of structured data where sensitive information is labeled and categorized for easy identification and removal.
 
 ## Data Structure
 
