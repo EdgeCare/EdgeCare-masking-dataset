@@ -1,0 +1,16 @@
+{
+    "0": "O",
+    "1": "PERSON",
+    "2": "STAFF",
+    "3": "AGE",
+    "4": "BIRTHDATE",
+    "5": "DATE",
+    "6": "PHONE",
+    "7": "ID",
+    "8": "EMAIL",
+    "9": "LOC",
+    "10": "HOSP",
+    "11": "ORG",
+    "12": "TIMESTAMPS",
+    "13": "URL"
+}
